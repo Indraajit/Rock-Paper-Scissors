@@ -1,6 +1,6 @@
 # THIS REPOSITORY IS A PUBLIC
 
-You can Play this Game and use it as a reference on
+You can Play this Game and use it as a reference on https://indraajit.github.io/Rock-Paper-Scissors/
 
 <h1 align="center">
 <br>
